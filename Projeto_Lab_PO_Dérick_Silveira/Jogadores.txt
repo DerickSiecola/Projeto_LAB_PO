@@ -1,0 +1,7 @@
+++ Dados do atleta: ++
+Lionel Messi
+PSG
+200000.0
+6000000.0
+36
+Ponta direita
